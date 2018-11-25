@@ -1,1 +1,1 @@
-##This is my first to-do list created in vanilla Javascript.
+This is my first to-do list created in vanilla Javascript.
